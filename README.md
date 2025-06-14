@@ -1,2 +1,2 @@
-# Cursor-PortFolio
-Here i will be vibe coding the Portfolio ideas given by the AI models
+# My Basic Idea of my Portfolio
+Here i will be writing my ideas and features i want to implement in my portfolio...
