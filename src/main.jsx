@@ -1,10 +1,16 @@
-
-import { createRoot } from 'react-dom/client'
-import './index.css'
-import App from './App.jsx'
-
-createRoot(document.getElementById('root')).render(
-  
-    <App />
-  
-)
+export default function Main() {
+  return (
+    <>
+      <main>
+        <form className="add-ingredient-form">
+          <input 
+          type="text" 
+          placeholder="e.g. Onions"
+          aria-label="New Ingredient"
+          />
+          <button>Add Ingredient</button>
+        </form>
+      </main>
+    </>
+  );
+}
